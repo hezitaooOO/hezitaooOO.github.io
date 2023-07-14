@@ -11,6 +11,7 @@ A 3D kart racing game built by `Unity` game engine and `C#`. <a href="https://gi
   <img src="/assets/images/play-online-badge.png" alt="Image" width="200" height="100">
 </a>
 
+
 I have been playing video games since I was a child. One of my favorate games is Crazyracing Kartrider. I took a game design in graduate school and I want to create a kart racing game myself.
 
 The interesting part of the project is I can create my own gaming mechanisim in Unity game engine.
