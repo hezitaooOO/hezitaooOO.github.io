@@ -2,7 +2,8 @@
 title: "Artificial Intelligence for Robotics"
 layout: post
 ---
-The projects are implemened in 
+The projects are implemened in:
+<br>
 • Implemented filters (including Kalman and particle filters) in order to localize moving objects
 whose locations are subject to noise.
 <br>
@@ -15,7 +16,10 @@ subject to costs on different types of movement.
 <br>
 Github Repo is private. Please contact me for if you are interested in a demo.
 
-<img src="/assets/project_photos/ai_for_robotics/slam.gif" alt="Image" width="300" height="200">
+<figure style="text-align: center;">
+  <img src="/assets/project_photos/ai_for_robotics/slam.gif" alt="Image" width="300" height="200">
+</figure>
+
 
 Developing a driverless vehicle has long been a dream for many, including myself. This project aims to assemble the necessary techniques to create an autonomous driving drone capable of reaching a target location while effectively avoiding collisions with trees.
 

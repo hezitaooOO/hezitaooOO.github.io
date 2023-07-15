@@ -6,11 +6,11 @@ layout: post
 A redesign of iOS Chase Bank app using `human-computer-interaction(HCI)` methods and principles.
 <br>
 Github Repo is private. Please contact me for if you are interested in a demo.
-
-
-<img src="/assets/project_photos/chase_interface_redesign/hci.jpg" alt="Image" width="600" height="400">
-
-
+<figure style="text-align: center;">
+  <img src="/assets/project_photos/chase_interface_redesign/hci.jpg" alt="Image" width="400" height="200" style="margin: 0 auto;">
+  <figcaption style="text-align: center;"><a href="https://www.prsonas.com/blog/best-practices-designing-human-computer-interactions">Image Source</a>
+</figcaption>
+</figure>
 
 
 Human-computer interaction has been an widely-studied field since the birth of `graphical user interface (GUI)`: <a href="https://en.wikipedia.org/wiki/PARC_(company)">Xerox PARC</a>

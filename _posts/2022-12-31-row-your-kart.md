@@ -4,13 +4,14 @@ layout: post
 ---
 
 A 3D kart racing game built by `Unity` game engine and `C#`. <a href="https://github.com/hezitaooOO/row_your_kart">Github Repo</a>
+<figure style="text-align: center;">
+    <img src="/assets/project_photos/row_your_kart/game.png" alt="Image" width="400" height="200">
+    <br>
+    <a href="https://simmer.io/@baoya_uncle/row-your-kart">
+        <img src="/assets/images/play-online-badge.png" alt="Image" width="150" height="100">
+    </a> 
 
-<img src="/assets/project_photos/row_your_kart/game.png" alt="Image" width="600" height="400">
-
-<a href="https://simmer.io/@baoya_uncle/row-your-kart">
-  <img src="/assets/images/play-online-badge.png" alt="Image" width="200" height="100">
-</a>
-
+</figure>
 
 
 Unity has some default methods for MonoBehaviour base class (most classes many scripts derive from). For example the `void Start()` method is called whenever a object is instantiated from a class.  `void Update()` is the method that is called every time the game frame gets updated. `void OnTriggerEnte()` executtes whenever the object collide (physics is handled by Unity engine) with another object.

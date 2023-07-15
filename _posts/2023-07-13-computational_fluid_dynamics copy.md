@@ -5,7 +5,10 @@ layout: post
 
 A `Computational Fluid Dynamics(CFD)` solver to solve imcompressible lid-driven cavity flow problem. Implemented in `Python`, using `NumP`y, `Scipy` for computational and `Matplotlib` for data visualization. <a href="https://github.com/hezitaooOO/computational_fluid_dynamics">Github Repo</a>
 
-<img src="/assets/project_photos/computational_fluid_dynamics/y_velocity_Re100.png" alt="Image" width="300" height="300">
+<figure style="text-align: center;">
+  <img src="/assets/project_photos/computational_fluid_dynamics/y_velocity_Re100.png" alt="Image" width="300" height="300">
+</figure>
+
 
 
 `CFD` stands for `Computational Fluid Dynamics`. It is a branch of fluid mechanics that uses numerical methods and algorithms to solve and analyze problems related to fluid flow. CFD allows engineers and scientists to simulate and visualize the behavior of fluids and the interaction with solid objects. A very common problem is the aerodynamics for vehicle to reduce air drag.
