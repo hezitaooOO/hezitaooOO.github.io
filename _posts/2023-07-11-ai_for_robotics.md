@@ -1,11 +1,21 @@
 ---
-title: "Computational Fluid Dynamics"
+title: "Artificial Intelligence for Robotics"
 layout: post
 ---
-
-A `Computational Fluid Dynamics(CFD)` solver to solve imcompressible lid-driven cavity flow problem. Implemented in `Python`, using `NumP`y, `Scipy` for computational and `Matplotlib` for data visualization.
+The projects are implemened in 
+• Implemented filters (including Kalman and particle filters) in order to localize moving objects
+whose locations are subject to noise.
+<br>
+• Implement search algorithms (including A*) to plan the shortest path from one point to another
+subject to costs on different types of movement.
+<br>
+• Implement PID controls to smoothly correct an autonomous robot’s course.
+<br>
+• Implement a SLAM algorithm for a robot moving in at least two dimensions.
 
 <img src="/assets/project_photos/computational_fluid_dynamics/velocity_plot.png" alt="Image" width="499" height="300">
+
+
 
 
 Human-computer interaction has been an widely-studied field since the birth of `graphical user interface (GUI)`: <a href="https://en.wikipedia.org/wiki/PARC_(company)">Xerox PARC</a>
