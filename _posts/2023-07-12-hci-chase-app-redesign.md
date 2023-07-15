@@ -3,7 +3,10 @@ title: "Chase Bank iOS App Interface Redesign"
 layout: post
 ---
 
-A redesign of iOS Chase Bank app using `human-computer-interaction(HCI)` methods and principles. Github Repo is private: contact me for a demo.
+A redesign of iOS Chase Bank app using `human-computer-interaction(HCI)` methods and principles.
+<br>
+Github Repo is private. Please contact me for if you are interested in a demo.
+
 
 <img src="/assets/project_photos/chase_interface_redesign/hci.jpg" alt="Image" width="600" height="400">
 
