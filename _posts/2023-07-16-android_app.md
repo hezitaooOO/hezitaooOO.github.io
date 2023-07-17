@@ -1,11 +1,11 @@
 ---
-title: "Machine Learning For Trading"
+title: "Android App for Comparing Job Offers"
 layout: post
 ---
-A random forest-based leaner written in native `Python` is developed to automatically make trading decisions based on historical data processed using `Pandas`. The effect of impact on learner strategy is studied. Github Repo is private. Please contact me for if you are interested in a demo.
+A android app is developed to compare multiple job offers with current job using `Java` and `Android Studio`. The database is implemented in `SQLite`.
 
 <figure style="text-align: center;">
-  <img src="/assets/project_photos/ml_for_trading/learner_performance.png" alt="Image" width="500" height="200">
+  <img src="/assets/project_photos/android_app/compare_job_offers.png" alt="Image" width="250" height="100">
 </figure>
 
 
